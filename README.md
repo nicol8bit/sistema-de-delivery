@@ -27,7 +27,7 @@ Embora o projeto contenha uma implementação parcial (`/codigos`), a execução
 
 Para rodar o projeto, você precisará dos seguintes componentes:
 
-*   **Servidor Local:** XAMPP (ou WAMP/MAMP)
+*   **Servidor Local:** XAMPP
 *   **Ambiente de Execução:** PHP
 *   **Banco de Dados:** MySQL
 *   **Gerenciador de Dependências:** Composer
@@ -88,18 +88,22 @@ sistema-de-delivery/
 
 ## 📑 Artefatos de Engenharia de Software
 
-Todos os artefatos de documentação e modelagem exigidos pelo projeto estão disponíveis na pasta [`/documentacao`](./documentacao).
+Todos os **10 artefatos** de documentação e modelagem exigidos pelo projeto estão disponíveis na pasta [`/documentacao`](./documentacao).
 
-| Artefato | Descrição | Arquivo |
-| :--- | :--- | :--- |
-| **Requisitos** | Requisitos Funcionais e Não Funcionais do sistema. | [`Requisitos - Sistema de Delivery.md`](./documentacao/Requisitos%20-%20Sistema%20de%20Delivery.md) |
-| **Casos de Uso** | Documentação e Diagrama Completo de Casos de Uso. | [`Casos de Uso - Sistema de Delivery.md`](./documentacao/Casos%20de%20Uso%20-%20Sistema%20de%20Delivery.md) |
-| **Diagrama de Classes** | Diagrama de Classes de Dados (Modelo Lógico) e Diagrama de Classes do Sistema. | [`Diagrama de Classes de Dados - Sistema de Delivery.png`](./documentacao/Diagrama%20de%20Classes%20de%20Dados%20-%20Sistema%20de%20Delivery.png) |
-| **MER** | Modelo Entidade-Relacionamento (MER) do banco de dados. | [`MER - Sistema de Delivery.png`](./documentacao/MER%20-%20Sistema%20de%20Delivery.png) |
-| **Diagrama de Sequência** | Diagrama de Sequência para o fluxo de "Realizar Pedido". | [`Diagrama de Sequência - Realizar Pedido - Sistema de Delivery.png`](./documentacao/Diagrama%20de%20Sequ%C3%AAncia%20-%20Realizar%20Pedido%20-%20Sistema%20de%20Delivery.png) |
-| **Cronograma** | Cronograma de Desenvolvimento Semanal. | [`Cronograma de Desenvolvimento Semanal - Sistema de Delivery.md`](./documentacao/Cronograma%20de%20Desenvolvimento%20Semanal%20-%20Sistema%20de%20Delivery.md) |
-| **Necessidades Tecnológicas** | Detalhamento do ambiente de execução e requisitos de hardware. | [`Necessidades Tecnológicas - Sistema de Delivery.md`](./documentacao/Necessidades%20Tecnol%C3%B3gicas%20-%20Sistema%20de%20Delivery.md) |
+| # | Artefato | Descrição | Arquivo |
+| :--- | :--- | :--- | :--- |
+| **1** | **Documento de Requisitos** | Requisitos Funcionais e Não Funcionais do sistema. | [`Requisitos - Sistema de Delivery.md`](./documentacao/Requisitos%20-%20Sistema%20de%20Delivery.md) |
+| **2** | **Casos de Uso (Documentação)** | Documentação dos 2 casos de uso completos. | [`Casos de Uso - Sistema de Delivery.md`](./documentacao/Casos%20de%20Uso%20-%20Sistema%20de%20Delivery.md) |
+| **3** | **Diagrama Completo de Casos de Uso** | Representação de todos os atores, relacionamentos e casos de uso. | [`Casos de Uso Completo - Sistema de Delivery.png`](./documentacao/Casos%20de%20Uso%20Completo%20-%20Sistema%20de%20Delivery.png) |
+| **4** | **Tecnologias de Desenvolvimento** | Definição da stack tecnológica (Linguagem, Frameworks, Banco de Dados) e justificativa. | [`Tecnologias de Desenvolvimento - Sistema de Delivery.md`](./documentacao/Tecnologias%20de%20Desenvolvimento%20-%20Sistema%20de%20Delivery.md) |
+| **5** | **Diagrama de Classes de Dados** | Modelo Lógico (Classes de Dados). | [`Diagrama de Classes de Dados - Sistema de Delivery.png`](./documentacao/Diagrama%20de%20Classes%20de%20Dados%20-%20Sistema%20de%20Delivery.png) |
+| **6** | **Diagrama de Classes do Sistema** | Representação de Entidades, Serviços e Controladores. | [`Diagrama de Classes do Sistema - Sistema de Delivery.png`](./documentacao/Diagrama%20de%20Classes%20do%20Sistema%20-%20Sistema%20de%20Delivery.png) |
+| **7** | **Modelo Entidade-Relacionamento (MER)** | Representação das entidades, atributos e relacionamentos do banco de dados. | [`MER - Sistema de Delivery.png`](./documentacao/MER%20-%20Sistema%20de%20Delivery.png) |
+| **8** | **Diagrama de Sequência** | Diagrama de Sequência para o fluxo de "Realizar Pedido". | [`Diagrama de Sequência - Realizar Pedido - Sistema de Delivery.png`](./documentacao/Diagrama%20de%20Sequ%C3%AAncia%20-%20Realizar%20Pedido%20-%20Sistema%20de%20Delivery.png) |
+| **9** | **Necessidades Tecnológicas** | Detalhamento do ambiente de execução, dependências e requisitos de hardware. | [`Necessidades Tecnológicas - Sistema de Delivery.md`](./documentacao/Necessidades%20Tecnol%C3%B3gicas%20-%20Sistema%20de%20Delivery.md) |
+| **10** | **Cronograma de Desenvolvimento** | Tabela ou lista simples contendo o cronograma semanal. | [`Cronograma de Desenvolvimento Semanal - Sistema de Delivery.md`](./documentacao/Cronograma%20de%20Desenvolvimento%20Semanal%20-%20Sistema%20de%20Delivery.md) |
 
 ---
 
 *Desenvolvido como parte da disciplina de Engenharia de Software 1.*
+
