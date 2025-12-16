@@ -103,4 +103,3 @@ Todos os artefatos de documentação e modelagem exigidos pelo projeto estão di
 ---
 
 *Desenvolvido como parte da disciplina de Engenharia de Software 1.*
-*Repositório: [https://github.com/nicol8bit/sistema-de-delivery.git](https://github.com/nicol8bit/sistema-de-delivery.git)*
