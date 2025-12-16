@@ -94,7 +94,7 @@ Todos os **10 artefatos** de documentação e modelagem exigidos pelo projeto es
 | :--- | :--- | :--- | :--- |
 | **1** | **Documento de Requisitos** | Requisitos Funcionais e Não Funcionais do sistema. | [`Requisitos - Sistema de Delivery.md`](./documentacao/Requisitos%20-%20Sistema%20de%20Delivery.md) |
 | **2** | **Casos de Uso (Documentação)** | Documentação dos 2 casos de uso completos. | [`Casos de Uso - Sistema de Delivery.md`](./documentacao/Casos%20de%20Uso%20-%20Sistema%20de%20Delivery.md) |
-| **3** | **Diagrama Completo de Casos de Uso** | Representação de todos os atores, relacionamentos e casos de uso. | [`Casos de Uso Completo - Sistema de Delivery.png`](./documentacao/Casos%20de%20Uso%20Completo%20-%20Sistema%20de%20Delivery.png) |
+| **3** | **Diagrama Completo de Casos de Uso** | Representação de todos os atores, relacionamentos e casos de uso. | [`Casos de Uso Completo - Sistema de Delivery.png`](./documentacao/Casos%20de%20Uso%20Completo%20-%20Sistema%20de%20%20Delivery.png) |
 | **4** | **Tecnologias de Desenvolvimento** | Definição da stack tecnológica (Linguagem, Frameworks, Banco de Dados) e justificativa. | [`Tecnologias de Desenvolvimento - Sistema de Delivery.md`](./documentacao/Tecnologias%20de%20Desenvolvimento%20-%20Sistema%20de%20Delivery.md) |
 | **5** | **Diagrama de Classes de Dados** | Modelo Lógico (Classes de Dados). | [`Diagrama de Classes de Dados - Sistema de Delivery.png`](./documentacao/Diagrama%20de%20Classes%20de%20Dados%20-%20Sistema%20de%20Delivery.png) |
 | **6** | **Diagrama de Classes do Sistema** | Representação de Entidades, Serviços e Controladores. | [`Diagrama de Classes do Sistema - Sistema de Delivery.png`](./documentacao/Diagrama%20de%20Classes%20do%20Sistema%20-%20Sistema%20de%20Delivery.png) |
